@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>@lang('messages.register_membership')</title>
+    <title>@lang('messages.show_barcode')</title>
     <link rel="icon" type="image/x-icon" href="{{asset('/uploads/Logo.png')}}">
 
     <!-- Tell the browser to be responsive to screen width -->

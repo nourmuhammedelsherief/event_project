@@ -229,4 +229,5 @@ return [
     'auto_active' => 'Auto Accept Members',
     'yes' => 'Yes',
     'no' => 'No',
+    'show_barcode' => 'Show Barcode',
 ];
